@@ -33,7 +33,7 @@ const stackOverflow = {
 const thisSong = { "description": "The best song in the world." }
 delete thisSong.description;
 thisSong["about"] = "Just a tribute."
-console.log(thisSong);
+
 
 
 
